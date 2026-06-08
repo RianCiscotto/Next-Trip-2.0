@@ -10,7 +10,7 @@ Sistema de dados de países e suas curiosidades
 * Localização - 
 * Esportes -
 * Imagem da Bandeira
-* Status - Já Visitou, Quer Visitar e se Não Quer Visitar
+* Status 
 
 
 ## Foram utilizadas as seguintes tecnologias:
